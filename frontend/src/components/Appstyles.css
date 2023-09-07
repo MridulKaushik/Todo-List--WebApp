@@ -1,0 +1,26 @@
+
+.content{
+    margin: auto;
+    width:100%;
+    min-height: 100%;
+    /* overflow: scroll; */
+}
+
+.row{
+    width: 100%;
+    min-height: 100;
+
+}
+
+.todo-card{
+    background: conic-gradient(skyblue,lightgreen);
+}
+
+.item-list{
+    height: 100%;
+
+}
+
+#items{
+    background: linear-gradient(white, rgb(239, 238, 238));
+}
